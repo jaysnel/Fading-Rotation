@@ -1,2 +1,2 @@
 # Fading-Rotation
-Simple script to fade elements in and out
+Simple jQuery script to fade elements in and out
