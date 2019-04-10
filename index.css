@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(to right, #70e1f5, #ffd194);
+}
+
+#fadingText {
+    text-align:  center;
+     margin-top: 10%;
+}
+#fadingText span {
+    font-size: 2.5rem;
+    color: #fff;
+    text-shadow: 1px 1px #000;
+}
